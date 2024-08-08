@@ -23,46 +23,6 @@
   <br/>
 </div>
 
-<h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm currently focused on building projects that align with my ultimate goal of continuous growth and innovation.</p><br>
-
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png" width="90" alt="UPS.png"/><br>
-        <img src="https://thumbs4.imagebam.com/d7/6e/91/MESRJ8U_t.png" height="20" alt="Ec.png"/><br>
-        <strong>UPS</strong><br><strong>BE.</strong>In Information and Technology<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
-      </td>
-      <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
-        <img src="https://thumbs4.imagebam.com/b9/01/da/MESRJ8V_t.png" height="20" alt="Mx.png"/><br>
-        <strong>TEC</strong><br><strong>MSc.</strong> Inf. Technology Mgmt<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
-      </td>
-     
-    </tr>
-  </table>
-</div>
-
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-172002&theme=dark&hide_border=false"/></a>
-  </a>
-</p>
-
-<h2>⭐ | Github Stats </h2>
-
-<div align="center">
-<a href="https://github.com/sahil-172002">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil-172002&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-
-</div>
-
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
@@ -90,3 +50,20 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
     </tr>
 </table>
+
+<h2>🔥| My contribution streak</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-172002&theme=dark&hide_border=false"/></a>
+  </a>
+</p>
+
+<h2>⭐ | Github Stats </h2>
+
+<div align="center">
+<a href="https://github.com/sahil-172002">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahil-172002&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+
+</div>
+
+
