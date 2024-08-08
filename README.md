@@ -12,8 +12,7 @@
 <br>
 
 
-<img align="center" height="150px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"> &nbsp; &nbsp; <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=www.Sahilandhare.works;I'm+Sahil+Andhare!;" />
-
+<img align="center" height="150px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"> &nbsp; &nbsp; <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=www.Sahilandhare.works"/> 
 
 
 <h2>📖 | About me</h2> 
