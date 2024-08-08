@@ -17,12 +17,6 @@
 <h2>📖 | About me</h2> 
 🌐 With a strong foundation in web development and a passion for creating dynamic digital experiences, I bring a versatile skill set to the table, encompassing frontend, backend, and full-stack development. My expertise in modern technologies like HTML, CSS, JavaScript, React, and Tailwind CSS, combined with my experience in database management with MySQL and MongoDB, allows me to contribute effectively to diverse projects. I thrive on continuous learning and innovation, and I am committed to writing clean, maintainable code that enhances user experience. 
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahil-172002/sahil-172002/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
@@ -50,6 +44,14 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
     </tr>
 </table>
+<br>
+
+<div>
+  <h2>🚀| Contributions </h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahil-172002/sahil-172002/output/github-contribution-grid-snake.svg" />
+</div>
+
+
 
 <h2>🔥| My contribution streak</h2>
 <p align="center">
