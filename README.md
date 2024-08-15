@@ -38,10 +38,7 @@
 </table>
 <br>
 
-<div>
-<h2>🔥| My contribution streak</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahil-172002/sahil-172002/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 
 
