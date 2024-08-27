@@ -6,7 +6,7 @@
 
 
 <h2>📖 | About me</h2> 
-🌐 With a strong foundation in web development and  passion for creating dynamic digital experiences, I bring a versatile skill set to  table, encompassing frontend, backend, and full-stack development. My expertise in modern technologies like HTML, CSS, JavaScript, React, and Tailwind CSS, combined with my experience in database management with MySQL and MongoDB, allows me to contribute effectively to diverse projects. I thrive on continuous learning and innovation, and I am committed to writing clean, maintainable code that enhances user experience. 
+🌐 With a strong foundation in web development and  passion for creating dynamic digital experiences, I bring a versatile skill set to  table, encompassing frontend, backend, and full-stack development. My expertise in modern technologies like HTML, CSS, JavaScript, React, and Tailwind CSS, combined with my experience in the database management with MySQL and MongoDB, allows me to contribute effectively to diverse projects. I thrive on continuous learning and innovation, and I am committed to writing clean, maintainable code that enhances user experience. 
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
