@@ -1,10 +1,5 @@
 
 
-
-
-<img align="center" height="110px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"> &nbsp; &nbsp; <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=40&duration=4000&color=B3B3B3&lines=WWW.Sahilandhare.tech"/> 
-
-
 <h2>📖 | About me</h2> 
 🌐 With a strong foundation in web development and  passion for creating dynamic digital experiences, I bring a versatile skill set to  table, encompassing frontend, backend, and full-stack development. My expertise in modern technologies like HTML, CSS, JavaScript, React, and Tailwind CSS, combined with my experience in the database management with MySQL and MongoDB, allows me to contribute effectively to diverse projects. I thrive on continuous learning and innovation, and I am committed to writing clean, maintainable code that enhances user experience. 
 
