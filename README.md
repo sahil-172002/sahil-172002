@@ -33,8 +33,6 @@
 
 
 
-<h2>🪬| Programming Languages</h2>
-<br>
 
 <a href="https://github.com/sahil-172002">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahil-172002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
